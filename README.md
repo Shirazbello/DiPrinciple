@@ -13,4 +13,4 @@
 
 
 ## Console Output
-<img src="/images/DipOutput.png" alt="DipDiagram" height="512"/
+<img src="/images/DipOutput.png" alt="DipDiagram" height="512"/>
